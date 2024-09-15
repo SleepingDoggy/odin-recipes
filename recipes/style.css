@@ -1,19 +1,35 @@
+*{
+    width:800px;
+    background: #fff;
+}
+
 h1{
+    color: black;
+    background: #e3f4ff;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 8px auto;
+    font-size: 26px;
+    padding: 8px;
+}
+
+h2{
+    background: #e3f4ff;
     color: blue;
     font-family: 'Times New Roman', Times, serif;
 }
 
-h2{
-    color: green;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 ul{
+    /* background: #e3f4ff; */
     font-family: 'Times New Roman', Times, serif;
-    color: brown;
+    /* color: white; */
+    /* border: 1px solid black; */
+    padding: 5px;
 }
 
 ol{
+    /* background: #e3f4ff; */
     font-family: 'Times New Roman', Times, serif;
-    color: brown;
+    /* color: white; */
+    /* border: 1px solid black; */
+    padding: 5px;
 }

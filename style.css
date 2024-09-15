@@ -1,9 +1,18 @@
 h1{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
+    /* width: 400px; */
+    background: #fff;
+    padding: 8px;
+    margin: 16px auto;
 }
 
 ul{
-    background-color: bisque;
+    /* background-color: bisque; */
     font-family: 'Times New Roman', Times, serif;
+    /* width: 400px; */
+    background: #fff;
+    padding: 28px;
+    margin: 32px auto;
+    border: 5px solid red;
 }
